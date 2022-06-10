@@ -14,9 +14,9 @@ pyautogui.write('instagram.com')
 pyautogui.press('enter')
 sleep(1.5)
 pyautogui.click(x=-497, y=296)
-pyautogui.write('thiisp')
+pyautogui.write('username') # aqui você troca o username.
 pyautogui.click(x=-498, y=341)
-pyautogui.write('password')
+pyautogui.write('password') # aqui você coloca sua senha.
 pyautogui.click(x=-483, y=394)
 sleep(4)
 pyautogui.click(x=-703, y=490)
