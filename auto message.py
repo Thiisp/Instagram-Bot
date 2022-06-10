@@ -1,7 +1,7 @@
 import pyautogui
 from time import sleep
 
-pyautogui.PAUSE = 0.3
+pyautogui.PAUSE = 0.3 # caso sua internet não seja boa, use o time de >= 3.
 
 
 pyautogui.press('win')
